@@ -62,6 +62,7 @@ setChecked(false);
   return (
     <div className='container'>
       <h1>Quiz Page</h1>
+      <h2>by Vanamali Sims</h2>
       <div>
         <h2>Question:{activeQuestion +1}
             <span>/{questions.length}</span>
